@@ -8,7 +8,7 @@ Step 1. Opening this repo in codespaces
 
 Step 2. Run the hugo server command from the console
 
-`hugo serve -D --baseURL="https://paulustm-hugo-poc-64cq.github.dev/" --appendPort=false`
+`hugo serve -D --baseURL="https://paulustm-hugo-poc-64cq-1313.githubpreview.dev/" --appendPort=false`
 
 Step 3. Going to the port-forward page
 
